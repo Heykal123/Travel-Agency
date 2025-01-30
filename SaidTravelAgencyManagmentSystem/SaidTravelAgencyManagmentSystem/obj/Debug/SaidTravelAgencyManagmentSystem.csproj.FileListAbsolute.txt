@@ -1,0 +1,12 @@
+D:\subjects\c# language\SaidTravelAgencyManagmentSystem\SaidTravelAgencyManagmentSystem\bin\Debug\SaidTravelAgencyManagmentSystem.exe.config
+D:\subjects\c# language\SaidTravelAgencyManagmentSystem\SaidTravelAgencyManagmentSystem\bin\Debug\SaidTravelAgencyManagmentSystem.exe
+D:\subjects\c# language\SaidTravelAgencyManagmentSystem\SaidTravelAgencyManagmentSystem\bin\Debug\SaidTravelAgencyManagmentSystem.pdb
+D:\subjects\c# language\SaidTravelAgencyManagmentSystem\SaidTravelAgencyManagmentSystem\obj\Debug\SaidTravelAgencyManagmentSystem.csproj.AssemblyReference.cache
+D:\subjects\c# language\SaidTravelAgencyManagmentSystem\SaidTravelAgencyManagmentSystem\obj\Debug\SaidTravelAgencyManagmentSystem.Form1.resources
+D:\subjects\c# language\SaidTravelAgencyManagmentSystem\SaidTravelAgencyManagmentSystem\obj\Debug\SaidTravelAgencyManagmentSystem.Properties.Resources.resources
+D:\subjects\c# language\SaidTravelAgencyManagmentSystem\SaidTravelAgencyManagmentSystem\obj\Debug\SaidTravelAgencyManagmentSystem.csproj.GenerateResource.cache
+D:\subjects\c# language\SaidTravelAgencyManagmentSystem\SaidTravelAgencyManagmentSystem\obj\Debug\SaidTravelAgencyManagmentSystem.csproj.CoreCompileInputs.cache
+D:\subjects\c# language\SaidTravelAgencyManagmentSystem\SaidTravelAgencyManagmentSystem\obj\Debug\SaidTravelAgencyManagmentSystem.exe
+D:\subjects\c# language\SaidTravelAgencyManagmentSystem\SaidTravelAgencyManagmentSystem\obj\Debug\SaidTravelAgencyManagmentSystem.pdb
+D:\subjects\c# language\SaidTravelAgencyManagmentSystem\SaidTravelAgencyManagmentSystem\obj\Debug\SaidTravelAgencyManagmentSystem.LoginForm.resources
+D:\subjects\c# language\SaidTravelAgencyManagmentSystem\SaidTravelAgencyManagmentSystem\obj\Debug\SaidTravelAgencyManagmentSystem.REport.resources
