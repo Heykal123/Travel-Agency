@@ -20,7 +20,7 @@ namespace SaidTravelAgencyManagmentSystem
         private void button1_Click(object sender, EventArgs e)
         {
 
-            if (txtUsername.Text == "Abdiwali" && txtPassword.Text == "isak")
+            if (txtUsername.Text == "Ahmed" && txtPassword.Text == "abdi")
             {
                 Form1 frMain = new Form1();
                 frMain.Show();
