@@ -11,7 +11,7 @@ namespace SaidTravelAgencyManagmentSystem
     {
         public SqlConnection connection() 
         {
-            SqlConnection conn = new SqlConnection("data source = ABDIWALI\\SQLEXPRESS; initial catalog = travelAgence; integrated security = true;");
+            SqlConnection conn = new SqlConnection("data source = Ahmed\\SQLEXPRESS; initial catalog = travelAgence; integrated security = true;");
             conn.Open();
             return conn;
         }
